@@ -13,4 +13,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
-          
+          config_timezone: Europe/Amsterdam
